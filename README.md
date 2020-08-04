@@ -1,3 +1,20 @@
+# JSDK 0.x
+
+## Intro
+This is mirror repository of the last version of JSDK 0.X era on SourceForge.
+
+## Guides
+<a href="http://jsdk2.sourceforge.net/website/">0.X Guides</a>
+
+## Games Demo
+<a href="http://jsdk2.sourceforge.net/javascript/0.6/examples/jsgf/tank-brigade/tank-demo.html">
+	<img src="http://jsdk2.sourceforge.net/website/images/tankbrigade.png" /></a>
+<a href="http://jsdk2.sourceforge.net/javascript/0.6/examples/jsgf/1945/1945-demo.html">
+	<img src="http://http://jsdk2.sourceforge.net/website/images/1945.gif" /></a>
+
+## Architecture Diagram
+<img src="http://jsdk2.sourceforge.net/website/images/jsgf-org.png" />
+
 ************************************
 * JSDK: JavaScript Development Kit
 ************************************
@@ -14,8 +31,7 @@ JSDK is available under LGPL v3.
 LGPL allows you to link or call LGPL library in your closed-source (commercial) application. 
 More detail see LGPL Version 3. 
 
-Below is a license list of third-party libraries in JSDK
-----------------------------------------------------------
+Below is a license list of third-party libraries in JSDK:
 YUI 2 available under BSD.
 SoundManager 2 available under BSD.
 Blackbird available under MIT.
@@ -37,8 +53,7 @@ GA: General Availability
 * Change History
 ********************************	
 
-0.6.2 release on May 02, 2012
---------------------------------
+0.6.2 release on May 02, 2012:
 =====Functions Improved=====
 1) The "onMouseTap" method of the "js.input.MouseProvider" class support "click" and "dblclick" event.
 
