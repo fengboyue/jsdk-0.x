@@ -1,18 +1,18 @@
-# JSDK 0.x
+## JSDK 0.X
 
-## Intro
+### Intro
 This is mirror repository of the last version of JSDK 0.X era on SourceForge.
 
-## Guides
+### Guides
 <a href="http://jsdk2.sourceforge.net/website/">0.X Guides Online</a>
 
-## Game Demos
+### Game Demos
 <a href="http://jsdk2.sourceforge.net/javascript/0.6/examples/jsgf/tank-brigade/tank-demo.html">
 	<img src="http://jsdk2.sourceforge.net/website/images/tankbrigade.png" /></a>
 <a href="http://jsdk2.sourceforge.net/javascript/0.6/examples/jsgf/1945/1945-demo.html">
 	<img src="http://jsdk2.sourceforge.net/website/images/1945.gif" /></a>
 
-## Architecture Diagram
+### Architecture Diagram
 <img src="http://jsdk2.sourceforge.net/website/images/jsgf-org.png" />
 
 ************************************
